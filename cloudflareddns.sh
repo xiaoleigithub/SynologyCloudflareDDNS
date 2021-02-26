@@ -5,7 +5,7 @@ ipv4Regex="((25[0-5]|(2[0-4]|1{0,1}[0-9]){0,1}[0-9])\.){3,3}(25[0-5]|(2[0-4]|1{0
 
 # 是否启用CDN 通过添加注释选择
 proxy="false"
-# proxy="true"
+#  proxy="true"
 
 # DSM Config
 username="$1"
